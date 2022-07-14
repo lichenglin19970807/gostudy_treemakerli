@@ -1,4 +1,4 @@
-// Package language show my study of golang
+// Package language show my study of golang.
 package language
 
 import (
