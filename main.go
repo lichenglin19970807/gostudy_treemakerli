@@ -1,7 +1,9 @@
 package main
 
-import "gostudy_treemakerli/language"
+import (
+	"gostudy_treemakerli/concurrency"
+)
 
 func main() {
-	language.TrapTwo()
+	concurrency.MutexDemo()
 }
